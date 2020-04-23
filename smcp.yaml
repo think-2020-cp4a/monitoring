@@ -3,7 +3,7 @@ kind: ServiceMeshControlPlane
 metadata:
   name: basic-install
 spec:
-  version: v1.0
+  version: v1.1
   istio:
     gateways:
       istio-egressgateway:
