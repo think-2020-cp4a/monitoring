@@ -113,7 +113,7 @@
             "format": "time_series",
             "instant": false,
             "intervalFactor": 1,
-            "legendFormat": "{{destination_service_name}}{{response_code}}",
+            "legendFormat": "{{destination_service_name}}:{{response_code}}",
             "refId": "A"
           }
         ],
